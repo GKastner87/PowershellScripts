@@ -1,7 +1,7 @@
 <#
 Version: 1.0
 Author: Guy Kastner (guykastner.com)
-Script: InstallAdobePro.ps1
+Script: CleanUp-OldAdobeFiles.ps1
 Description:
 Waits 24 hours to clean up the Adobe Installer files from InstallAdobePro.ps1 script
 Release notes:
